@@ -1,6 +1,6 @@
-# Netflix Anime Top 10 Side Project
+# Anime Top 10 Watchlist Side Project
 
-Static side project for introducing the top 10 anime on Netflix. The UI is written for Traditional Chinese readers and includes thumbnails, summaries, tags, trend labels, and a weekly update countdown.
+Static side project for introducing weekly top 10 anime picks. The UI is written for Traditional Chinese readers and includes thumbnails, summaries, tags, trend labels, and a weekly update countdown.
 
 ## Features
 
