@@ -1,0 +1,110 @@
+{
+  "region": "TW",
+  "category": "Anime",
+  "timezone": "Asia/Taipei",
+  "updateSchedule": "Every Monday at 09:00",
+  "lastUpdated": "2026-05-18T09:00:00+08:00",
+  "note": "Side project demo data. Replace scripts/update-anime-data.js with a licensed ranking source for production.",
+  "items": [
+    {
+      "rank": 1,
+      "title": "Kaiju No. 8",
+      "image": "https://images.unsplash.com/photo-1614583224978-f05ce51ef5fa?q=80&w=900&h=1200&auto=format&fit=crop",
+      "summary": "Kafka Hibino once dreamed of joining the Defense Force, but became a kaiju cleanup worker. After gaining the power to transform into a kaiju, he gets one more chance to chase that dream.",
+      "genres": ["Action", "Sci-Fi"],
+      "trend": "up",
+      "episodes": "Ongoing",
+      "source": "Demo data"
+    },
+    {
+      "rank": 2,
+      "title": "Demon Slayer: Hashira Training Arc",
+      "image": "https://images.unsplash.com/photo-1599839619722-39751411ea63?q=80&w=900&h=1200&auto=format&fit=crop",
+      "summary": "Tanjiro and the Demon Slayer Corps prepare for the final battle through intense training led by the Hashira.",
+      "genres": ["Fantasy", "Adventure"],
+      "trend": "same",
+      "episodes": "Full season",
+      "source": "Demo data"
+    },
+    {
+      "rank": 3,
+      "title": "SPY x FAMILY",
+      "image": "https://images.unsplash.com/photo-1580477667995-2b92084f4fbf?q=80&w=900&h=1200&auto=format&fit=crop",
+      "summary": "A spy, an assassin, and a telepathic child form a fake family for a mission, while slowly becoming something much more real.",
+      "genres": ["Comedy", "Family"],
+      "trend": "up",
+      "episodes": "Multiple seasons",
+      "source": "Demo data"
+    },
+    {
+      "rank": 4,
+      "title": "Jujutsu Kaisen",
+      "image": "https://images.unsplash.com/photo-1620336655055-088d06e36bf0?q=80&w=900&h=1200&auto=format&fit=crop",
+      "summary": "Yuji Itadori enters the world of jujutsu sorcerers after swallowing a cursed object, facing curses, conspiracies, and brutal choices.",
+      "genres": ["Dark Fantasy", "Battle"],
+      "trend": "down",
+      "episodes": "Multiple seasons",
+      "source": "Demo data"
+    },
+    {
+      "rank": 5,
+      "title": "Delicious in Dungeon",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=900&h=1200&auto=format&fit=crop",
+      "summary": "Laios and his party dive into a dungeon to rescue his sister, surviving by cooking the monsters they encounter.",
+      "genres": ["Fantasy", "Food"],
+      "trend": "up",
+      "episodes": "Full season",
+      "source": "Demo data"
+    },
+    {
+      "rank": 6,
+      "title": "Frieren: Beyond Journey's End",
+      "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=900&h=1200&auto=format&fit=crop",
+      "summary": "After defeating the Demon King, the long-lived elf mage Frieren travels again to understand memory, time, and human emotion.",
+      "genres": ["Fantasy", "Drama"],
+      "trend": "same",
+      "episodes": "Full season",
+      "source": "Demo data"
+    },
+    {
+      "rank": 7,
+      "title": "Solo Leveling",
+      "image": "https://images.unsplash.com/photo-1542451313056-b7c8e6266459?q=80&w=900&h=1200&auto=format&fit=crop",
+      "summary": "The weakest hunter, Sung Jinwoo, survives a deadly dungeon and receives a mysterious system that lets him level up alone.",
+      "genres": ["Action", "Adventure"],
+      "trend": "new",
+      "episodes": "Season 1",
+      "source": "Demo data"
+    },
+    {
+      "rank": 8,
+      "title": "Attack on Titan",
+      "image": "https://images.unsplash.com/photo-1478479405421-ce83c92fb3ba?q=80&w=900&h=1200&auto=format&fit=crop",
+      "summary": "Humanity hides behind massive walls to survive the Titans, while Eren and his friends uncover the cruel truth of their world.",
+      "genres": ["Action", "Mystery"],
+      "trend": "down",
+      "episodes": "Final chapters",
+      "source": "Demo data"
+    },
+    {
+      "rank": 9,
+      "title": "Haikyu!!",
+      "image": "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?q=80&w=900&h=1200&auto=format&fit=crop",
+      "summary": "Shoyo Hinata joins Karasuno High's volleyball team and fights toward the national stage with speed, instinct, and teamwork.",
+      "genres": ["Sports", "Coming-of-age"],
+      "trend": "same",
+      "episodes": "Multiple seasons",
+      "source": "Demo data"
+    },
+    {
+      "rank": 10,
+      "title": "One Piece",
+      "image": "https://images.unsplash.com/photo-1534008757030-27299c4371b6?q=80&w=900&h=1200&auto=format&fit=crop",
+      "summary": "Monkey D. Luffy sails the Grand Line with the Straw Hat crew in search of the legendary treasure known as One Piece.",
+      "genres": ["Adventure", "Comedy"],
+      "trend": "same",
+      "episodes": "Long-running",
+      "source": "Demo data"
+    }
+  ]
+}
