@@ -29,7 +29,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update weekly anime data
-        run: node scripts/update-anime-data.js
+        run: node phoebe-netflix-top-10-main/scripts/update-anime-data.js
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
@@ -37,7 +37,7 @@ jobs:
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: phoebe-netflix-top-10-main
 
       - name: Deploy to GitHub Pages
         id: deployment
